@@ -11,7 +11,7 @@ The following routes are accessible at the moment, all living under `/v1`:
 - `/captain/adjectives/`, return one random Mariliz Pereira Jorge's adjective about The Captain.
 - `/captain/adjectives/all`, return the full list of adjectives.
 
-For example, to get a single adjective you may access the heroku (free!) deploy at https://powerful-waters-90294.herokuapp.com/v1/adjectives
+For example, to get a single adjective you may access the heroku (free!) deploy at https://powerful-waters-90294.herokuapp.com/v1/captain/adjectives
 
 ## Developing 
 
