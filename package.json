@@ -1,0 +1,33 @@
+{
+  "name": "the-captain-api",
+  "version": "0.1.0",
+  "description": "The captain (or the myth) API",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "got": "^11.3.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiagovignatti/the-captain-api"
+  },
+  "author": "Tiago Vignatti <vignatti@freedesktop.org> (https://vignatti.com)",
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "captain",
+    "myth"
+  ],
+  "license": "MIT"
+}
